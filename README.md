@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**lbczz/lbczz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Suzuran1480/Suzuran1480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
